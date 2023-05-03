@@ -1,0 +1,20 @@
+{
+  "name": "weather_rdk-01",
+  "title": "WEATHER_RDK1",
+  "notes": "ข้อมูลของสภาพอากาศต่าง ๆ ของทุก ๆ จังหวัดในประเทศไทย จาก www.iqair.com โดยอัพเดททุก ๆ 6 ชั่วโมง",
+  "data_type": "ข้อมูลสถิติ",
+  "owner_org": "tu", 
+  "data_source": "www.iqair.com",
+  "maintainer": "tu",
+  "update_frequency_unit": "ปี",
+  "data_format": [
+    "CSV"
+  ],
+  "maintainer_email": "tu@sci.com",
+  "objective": [
+    "แผนพัฒนาเศรษฐกิจและสังคมแห่งชาติ", "แผนปฏิรูปประเทศ", "กฎหมายที่เกี่ยวข้อง"
+  ],
+  "data_category": "ข้อมูลสาธารณะ",
+  "geo_coverage": "ประเทศ",
+ "license_id": "License not specified"
+}
